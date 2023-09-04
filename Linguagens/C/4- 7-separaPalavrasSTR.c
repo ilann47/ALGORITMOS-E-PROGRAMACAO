@@ -1,4 +1,22 @@
 /*
+
+
+    Este codigo preciso rever
+
+
+
+
+
+
+*/
+
+
+
+
+
+
+
+/*
 7- Faça um programa que leia uma string tamanho 50. Depois da leitura, 
 o programa deverá separar todas as palavras e imprimir na tela com o tamanho de cada uma.
 
